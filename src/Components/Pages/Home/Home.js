@@ -14,7 +14,7 @@ export function Home() {
         <p>Vistite nosso catalogo de cervejas e divirta-se!</p>
             
         <Link to="/randomBeers"> <img src={RandonBeers} alt="mangueira de uma cervejaria" /> </Link>
-        <h1 className="h1" > Randon Beers</h1>
+        <h1 className="h1" > Random Beers</h1>
         <p>Experimente uma cerveja aleatória hoje!</p>
             
         <Link to="/newBeer" ><img src={NewBeer} alt="Garrafa de cerveja e um copo cheio" /> </Link>
